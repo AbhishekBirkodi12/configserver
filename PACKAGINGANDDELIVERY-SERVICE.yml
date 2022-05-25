@@ -1,12 +1,12 @@
 server:
-  port: 9191
+  port: 9192
 spring:
   h2:
     console:
       enabled: true
   
   application:
-    name: NOTIFICATION-SERVICE
+    name: PACKAGINGANDDELIVERY-SERVICE
         
 eureka:
   client:

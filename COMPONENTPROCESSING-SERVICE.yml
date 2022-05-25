@@ -1,12 +1,12 @@
 server:
-  port: 9192
+  port: 9191
 spring:
   h2:
     console:
       enabled: true
   
   application:
-    name: PRODUCT-SERVICE
+    name: COMPONENTPROCESSING-SERVICE
         
 eureka:
   client:
